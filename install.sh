@@ -52,7 +52,4 @@ echo ""
 echo "CODE_BY_LUCA_PICCININ" | lolcat
 echo "________________________" | lolcat
 sleep 10
-echo " create account on cashkaro.com "
-echo " set your browser "
-termux-open-url https://cashkaro.com?r=8026255&fname=Rixon
-echo ""
+exit
